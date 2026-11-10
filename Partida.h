@@ -28,9 +28,6 @@ public:
 
     int CalcularBonoPorIntercambio();
 
-    // [IA] Agregado con apoyo de IA (Claude), Entrega 2. Prompt: "Agrega a
-    // Partida la operacion SerializarTexto que retorne el estado en el
-    // formato del archivo de inicializacion."
     string SerializarTexto() const;
 
 private:

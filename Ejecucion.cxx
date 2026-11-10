@@ -1,6 +1,6 @@
-#include "Ejecucion.h" // [IA] Corregido: el archivo se llama Ejecucion.h (en Linux importa la mayuscula)
+#include "Ejecucion.h"
 #include "ArchivoComprimido.h"
-#include "Grafo.h" // [IA] Entrega 3: Componente 3
+#include "Grafo.h"
 #include <iostream>
 #include <fstream>
 #include <sstream>

@@ -1,9 +1,3 @@
-// ---------------------------------------------------------------------------
-// [IA] Archivo generado con apoyo de IA generativa (Claude).
-// Prompt: "Implementa en C++11 el TAD ArchivoComprimido del documento de
-// diseno de la Entrega 2: Comprimir, Descomprimir, EscribirArchivo y
-// LeerArchivo con el formato n c1 f1 ... cn fn w binary_code del enunciado."
-// ---------------------------------------------------------------------------
 #ifndef ARCHIVO_COMPRIMIDO_H
 #define ARCHIVO_COMPRIMIDO_H
 

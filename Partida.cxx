@@ -44,9 +44,6 @@ int Partida::CalcularBonoPorIntercambio()
     return( bono );
 }
 
-// [IA] Agregado con apoyo de IA (Claude), Entrega 2. Prompt: "Agrega a
-// Partida la operacion SerializarTexto que retorne el estado en el
-// formato del archivo de inicializacion."
 // Formato: N, luego "nombre color" de cada jugador en el orden de la cola
 // (el de turno vigente primero) y luego "codigo color unidades" de los 42
 // territorios en el orden del tablero. Cada linea termina en '\n'.

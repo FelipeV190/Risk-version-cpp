@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <ctime>
 #include "comandos.h"
-#include "Ejecucion.h" // [IA] Corregido: el archivo se llama Ejecucion.h (en Linux importa la mayuscula)
+#include "Ejecucion.h"
 
 using namespace std;
 
