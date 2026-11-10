@@ -1,4 +1,4 @@
-# Risk – Entrega 3
+# Risk version C++
 
 Implementación en C++ del juego **Risk** por consola.
 
